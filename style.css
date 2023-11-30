@@ -1,0 +1,40 @@
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+header {
+  width: 853px;
+  height: 471px;
+  background-color: rgb(154, 71, 169);
+  border: 1px solid black;
+  position: absolute;
+  top: 20%;
+  left: 20%;
+}
+header .mainArea {
+  width: 302px;
+  height: 338px;
+  background-color: white;
+  position: relative;
+  top: 47px;
+  left: 268px;
+  text-align: center;
+  padding-top: 50px;
+}
+header .mainArea p {
+  font-family: DFKai-sb;
+  font-size: 24px;
+}
+header .mainArea h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+}
+header .mainArea button {
+  width: 144px;
+  height: 27px;
+  background-color: rgb(149, 149, 149);
+  color: white;
+  margin-top: 10%;
+  font-size: 16px;
+}/*# sourceMappingURL=style.css.map */
