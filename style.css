@@ -1,40 +1,41 @@
 body {
   width: 100vw;
   height: 100vh;
+  background-color: rgb(190, 173, 250);
 }
 
 header {
-  width: 853px;
-  height: 471px;
+  width: 60%;
+  height: 70%;
   background-color: rgb(154, 71, 169);
   border: 1px solid black;
-  position: absolute;
-  top: 20%;
-  left: 20%;
+  margin: 10% auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 header .mainArea {
-  width: 302px;
-  height: 338px;
+  width: 50%;
+  height: 80%;
   background-color: white;
   position: relative;
-  top: 47px;
-  left: 268px;
+  margin: 5% auto;
   text-align: center;
   padding-top: 50px;
 }
 header .mainArea p {
   font-family: DFKai-sb;
-  font-size: 24px;
+  font-size: 48px;
 }
 header .mainArea h1 {
   font-family: "Times New Roman", Times, serif;
-  font-size: 40px;
+  font-size: 48px;
 }
 header .mainArea button {
   width: 144px;
-  height: 27px;
+  height: 70px;
   background-color: rgb(149, 149, 149);
   color: white;
   margin-top: 10%;
-  font-size: 16px;
+  font-size: 35px;
 }/*# sourceMappingURL=style.css.map */
