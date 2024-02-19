@@ -8,23 +8,22 @@ https://peterjackson0107.github.io/20231113-guessNumber/
 - CSS
 - SCSS
 - Bootstrap v5.1.1
+- JavaScript
 
+## 輔助技術
+- codepen
+- fontawesome
+- colorhunt
+
+## 功能
+- [x] 猜數字
+- [x] 顯示猜的次數
 
 ## 學習歷程進度
+* 學習JavaScript
 
-* 
-
-## 想法
-
-* 因為很多網站都是用大區塊做分別，所以一開始先看成
-
-  * 上 (header)
-
-  * 中 (middle)
-
-  * 下 (footer)
-
-* 可以先用**Figma**先做大致切版
+## 想法或目標
+* 學習並利用簡單程式碼做出猜數字遊戲
 
 ## 參考版面
 * 最初の画面
