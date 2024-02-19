@@ -23,7 +23,7 @@ https://peterjackson0107.github.io/20231113-guessNumber/
 * 學習JavaScript
 
 ## 想法或目標
-* 學習並利用簡單程式碼做出猜數字遊戲
+* 學習JavaScript並利用簡單程式碼做出猜數字遊戲
 
 ## 參考版面
 * 最初の画面
