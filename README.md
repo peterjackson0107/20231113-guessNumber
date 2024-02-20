@@ -10,6 +10,12 @@ https://peterjackson0107.github.io/20231113-guessNumber/
 - Bootstrap v5.1.1
 - JavaScript
 
+  * 新增一個 pra.js 檔案
+
+  * 然後在原本的 index.html 的body結尾標籤之前新增下面的程式碼
+```
+<script src="./pra.js"></script>
+```
 ## 輔助技術
 - codepen
 - fontawesome
@@ -20,10 +26,11 @@ https://peterjackson0107.github.io/20231113-guessNumber/
 - [x] 顯示猜的次數
 
 ## 學習歷程進度
-* 學習JavaScript
+* 開始學習JavaScript
 
 ## 想法或目標
-* 學習JavaScript並利用簡單程式碼做出猜數字遊戲
+* 學習JavaScript
+* 利用簡單程式碼做出猜數字遊戲
 
 ## 參考版面
 * 最初の画面
